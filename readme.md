@@ -1,7 +1,6 @@
-## Project Week 2 Javascript
+## Project Week 3 Javascript
 
-<img src="https://it.telkomuniversity.ac.id/bemucil/2023/01/Javascript-adalah-1.jpg" alt="logo-js" 
-style="display: block; 
+<img src="https://www.w3docs.com/uploads/media/default/0001/05/4482fe09d95a0be765154b9cefff5e07f7fc32ff.png" alt="logo-js" style="display: block; 
        margin-left: auto;
        margin-right: auto;
        width: 70%;">
